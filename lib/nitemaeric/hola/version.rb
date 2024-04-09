@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 module Nitemaeric
-  module Hola
-    VERSION = "0.1.0"
+  class Hola
+    VERSION = "0.1.1"
   end
 end
